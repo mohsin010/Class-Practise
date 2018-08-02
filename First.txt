@@ -1,0 +1,2 @@
+Today we are going to learn git.
+As sir says git is very important for a programmer to servive.
